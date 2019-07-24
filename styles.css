@@ -1,0 +1,15 @@
+.color_p{
+    color: red;
+}
+
+li a:hover{
+    color: yellow;
+}
+
+.mainheader{
+    font-size: 4em;
+}
+
+.imglist{
+    display: inline-block;
+}
